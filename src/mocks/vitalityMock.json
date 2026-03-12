@@ -1,0 +1,15 @@
+{
+  "vitality_score": 82,
+  "segments": {
+    "physical": { "score": 85, "label": "Movement", "color": "#10B981" },
+    "nutrition": { "score": 70, "label": "Nutrition", "color": "#F59E0B" },
+    "recovery": { "score": 90, "label": "Recovery", "color": "#3B82F6" },
+    "subjective": { "score": 75, "label": "Energy", "color": "#EC4899" }
+  },
+  "gap_insight": "Circulation Gap detected due to low movement.",
+  "recommended_product": {
+    "id": "kal-sport-01",
+    "name": "Kalories® Sport Square",
+    "reason": "Boosts nitric oxide for better blood flow."
+  }
+}
